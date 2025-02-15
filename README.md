@@ -65,9 +65,7 @@
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
-  <a href="https://colab.research.google.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white" height="30" alt="Colab"/>
-  </a>
+  
   
 </p>
 <h3 align="center">Operating System</h3>
