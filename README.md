@@ -1,5 +1,5 @@
 # ananya.md
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Ananya!;I'm+a+BCA+Student;Driven+by+curiosity+and+a+passion+for+technology,)](https://git.io/typing-svg)</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Ananya!;I'm+a+BCA+Student;a+passion+for+technology,)](https://git.io/typing-svg)</h1> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -148,10 +148,9 @@
 
 | Skill | Technologies used to work or Known | 
 |:--|:------------|
-| Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
-| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
-| Deep Learning | ANN, CNN, RNN |
-| Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
-| Natural Language Processing | 
+| Technical Skills |  Python, C, Java, HTML |
+|Tool and Platforms |  Visual Studio Code, My SQL, Linux  |
+| Soft Skills |  Problem Solving,  efficient and effective,  Adaptability,  collabration  |
+| Basic Skills |  Mcrosoft-word, Microsoft Excel, Microsoft Powerpoint, Adobe photoshop   |
 
 
