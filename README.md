@@ -1,5 +1,5 @@
 # ananya.md
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Sarika!;I'm+a+Data+Scientist;love+to+Play+with+DATA)](https://git.io/typing-svg)</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Ananya!;I'm+a+BCA+Student;Driven+by+curiosity+and+a+passion+for+technology,+I+am+ready+to+apply+my+knowledge+and+technical+skills+to+solve+real+world+challenges.)](https://git.io/typing-svg)</h1> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <h2 align="center"><u><b>Knowledge Base</b></u></h2>
