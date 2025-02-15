@@ -37,22 +37,7 @@
   </a>
 </a>
 
-</p>
 
-<h3 align="center">Framework tools :</h3>
-<p align="center"> 
-  
-  
-  <a href="https://opencv.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="open-cv" width="40" height="40">
-  </a>
-  
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  
-   </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
