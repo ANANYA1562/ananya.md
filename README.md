@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white"
       alt="c"/>
   </a>
-
+$ git clone git@github.com:polyglotprog/c-logo.git
+$ cd c-logo
+$ npm install
+$ npm run dev
 
 
 
