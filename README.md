@@ -153,4 +153,9 @@
 | Soft Skills |  Problem Solving,  efficient and effective,  Adaptability,  collabration  |
 | Basic Skills |  Mcrosoft-word, Microsoft Excel, Microsoft Powerpoint, Adobe photoshop   |
 
+## :notebook_with_decorative_cover: Skill Elaboration
 
+| Certifications |   Platform                | 
+|:--|:------------|
+|  NPTEL   |  Entrepreneurship   |
+|  SimpliLearn  |  Introduction Yo Cyber Security  |
