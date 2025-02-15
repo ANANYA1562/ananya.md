@@ -10,6 +10,13 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="c"/>
   </a>
+<a href="https://https://www.C.org//" target="_blank"> 
+    <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white"
+      alt="c"/>
+  </a>
+
+
+
 
   </a>
   <!--   <a href="https://www.w3.org/html/" target="_blank"> 
