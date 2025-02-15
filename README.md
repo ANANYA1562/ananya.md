@@ -28,26 +28,12 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySqL"/>
   </a>
-
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-</a>
-  
-  <a href="https://cassandra.apache.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" width="80" height="40"
-      alt="apache cassandra"> 
 </a>
 
 </p>
 
 <h3 align="center">Framework tools :</h3>
 <p align="center"> 
- 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> 
-     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40">
-  </a>
-  
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="tensorfscikit-learn" width="40" height="40">
   </a>
@@ -62,10 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="80" height="60">
   </a>
   
-<a href="https://pytorch.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40">
-  </a>
-  
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -76,10 +58,6 @@
   </a> 
   
    </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-  
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
   </a>
@@ -100,10 +78,6 @@
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
   
 </p>
 
@@ -120,16 +94,7 @@
     <img src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white" height="30" alt="Colab"/>
   </a>
   
-  <a href="https://www.anaconda.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white" alt="Jupyter" height="30"/>
-  </a>
-  
-   <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
 </p>
-
-
 <h3 align="center">Operating System</h3>
 <p align="center"> 
  
@@ -155,5 +120,5 @@
 
 | Certifications |   Platform                | 
 |:--|:------------|
-|  NPTEL   |  Entrepreneurship   |
-|  SimpliLearn  |  Introduction Yo Cyber Security  |
+|  NPTEL   |  Entrepreneurship  https://drive.google.com/file/d/1QMJkYwEjax9YzG8r2agLIaiLJYGkFnWw/view?usp=drivesdk   |
+|  SimpliLearn  |  Introduction Yo Cyber Security  https://drive.google.com/file/d/1QImRdd3fB9rk7AIYHCSogOtiM1s6lzYE/view?usp=drivesdk  |
