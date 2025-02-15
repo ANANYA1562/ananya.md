@@ -34,36 +34,19 @@
 
 <h3 align="center">Framework tools :</h3>
 <p align="center"> 
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="tensorfscikit-learn" width="40" height="40">
-  </a>
+  
   
   <a href="https://opencv.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="open-cv" width="40" height="40">
-  </a>
-  
-  
-  
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="80" height="60">
   </a>
   
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
-   <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
   
    </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
-  
 </p>
-
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
@@ -116,7 +99,7 @@
 | Soft Skills |  Problem Solving,  efficient and effective,  Adaptability,  collabration  |
 | Basic Skills |  Mcrosoft-word, Microsoft Excel, Microsoft Powerpoint, Adobe photoshop   |
 
-## :notebook_with_decorative_cover: Skill Elaboration
+## :notebook_with_decorative_cover: Achievements
 
 | Certifications |   Platform                | 
 |:--|:------------|
